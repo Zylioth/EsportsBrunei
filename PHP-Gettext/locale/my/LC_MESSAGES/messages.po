@@ -1,0 +1,281 @@
+msgid "Esport Brunei - Homepage" 
+msgstr "Esport Brunei - Laman Utama"
+
+msgid "Search"
+msgstr "Cari"
+
+msgid "Topics"
+msgstr "Topik"
+
+msgid "Trending"
+msgstr "Terhangat"
+
+msgid "Trending Posts"
+msgstr "Post Hangat"
+
+msgid "About Us"
+msgstr "Tentang kami"
+
+msgid "What is Esport BN ?"
+msgstr "Apa itu Esport BN ?"
+
+msgid "It is a website developed to satisfy the needs of a user that could not only just advertise but also to allow players get updated news of Bruneian gaming in the Bruneian gaming community . Furthermore , Esports BN becomes a one way for users to register for events that are available for them to join to ."
+msgstr "Ia adalah sebuah laman sesawang yang dapat diguna pakai bukan sahaja bagi tujuan pengiklanan akan tetapi juga dapat digunakan bagi mendapatkan maklumat terkini mengenai kemajuan Esports Brunei. Tambahan lagi, Esports BN dapat menjadi sebuah platform bagi para pemain untuk mendaftar dan mengikuti acara-acara esports yang diadakan."
+
+msgid "What do we offer ?"
+msgstr "Apa yang kami tawarkan ?"
+
+msgid "1. Forums"
+msgstr "1. Forum"
+
+msgid "In the forum, the community will be posting  news, strategies and events that are upcoming."
+msgstr "Didalam forum, komuniti gaming akan berkongsi maklumat terkini dan info semasa, strategi dan acara yang akan di adakan di masa akan datang."
+
+msgid "2. Event Creations"
+msgstr "2. Menganjurkan acara"
+
+msgid "Want to organise a tournament or gaming event? Be part of the team by becoming an Organiser and you will be able to host/organise this event. Organiser can also look for volunteers through the help of this platform."
+msgstr "Anda mahu menganjurkan perlawanan ataupun acara gaming? Sertailah kami dan jadilah Organiser dan anda akan dapat membuat acara sebagai host/penganjur. Penganjur juga boleh mendapatkan sukarelawan dengan menggunakan platform ini."
+
+msgid "3. Teams"
+msgstr "3. Pasukan"
+
+msgid "Our website allows users to create teams/squad for them to able to register for events in the event page"
+msgstr "Laman sesawang kami memberikan kemudahan untuk membuat pasukan bagi mneyertai acara-acara yang di kongsikan dilaman acara kami"
+
+
+msgid "Send us a Message if there are any or give us a call at"
+msgstr "Hantarlah mesej kepada kami atau anda boleh membuat panggilan ke"
+
+msgid "message"
+msgstr "mesej"
+
+msgid "Send Message"
+msgstr "Hantar Mesej"
+
+msgid "Enter your name"
+msgstr "Masukkan Nama"
+
+msgid "Enter your email"
+msgstr "Masukkan Emel"
+
+msgid "Enter your phone"
+msgstr "Masukkan nombor telefon"
+
+msgid "Enter your website (optional)"
+msgstr "Masukkan alamat laman sesawang anda (jika ada)"
+
+
+msgid "submit"
+msgstr "hantar"
+
+msgid "cancel"
+msgstr "batal"
+
+msgid "post-title"
+msgstr "Terbitkan tajuk"
+
+msgid "title"
+msgstr "Tajuk"
+
+msgid "Register For this event"
+msgstr "Mendaftar untuk acara ini"
+
+msgid "Login/Signup to register for this event"
+msgstr "logmasuk/Mendaftar untuk menyertai acara ini"
+
+msgid "Esport Brunei - Event Page"
+msgstr "Esport Brunei - Laman Acara"
+
+msgid "Trending Events"
+msgstr "Acara terhangat"
+
+msgid "image"
+msgstr "imej"
+
+msgid "created_at"
+msgstr "dibuat pada"
+
+msgid "recent-post-title"
+msgstr "tajuk post terkini"
+
+msgid "Read More"
+msgstr "Teruskan Membaca"
+
+msgid "Forgot Password"
+msgstr "Lupa Kata kunci"
+
+msgid "Enter your email address"
+msgstr "Masukkan emel "
+
+
+msgid "Esport Brunei - Login Form"
+msgstr "Esport Brunei - Borang Logmasuk"
+
+msgid "Login Form"
+msgstr "Borang LogMasuk"
+
+msgid "Login with your email and password."
+msgstr "Log Masuk menggunakan emel dan kata kunci"
+
+msgid "Enter your username"
+msgstr "Masukkan nama pengguna "
+
+msgid "Password"
+msgstr "Kata Kunci"
+
+msgid "Forgot password?"
+msgstr "Lupa Kata Kunci?"
+
+msgid "Signup now"
+msgstr "Daftar Sekarang"
+
+msgid "Not yet a member?"
+msgstr "Belum menjadi ahli?"
+
+
+msgid "your message has been sent"
+msgstr "Mesej anda sudah dihantar"
+
+msgid "Sorry, failed to send your message!"
+msgstr "Harap maaf, mesej anda gagal dihantar"
+
+msgid "Enter a valid email address!"
+msgstr "Sila masukkan emel yang betul!"
+
+msgid "Email and message field is required!"
+msgstr "Emel dan kotak mesej perlu diisi!"
+
+msgid "Esport Brunei - Create a New Password"
+msgstr "Esport Brunei - Buat kata kunci baru"
+
+msgid "New Password"
+msgstr "Kata Kunci Baru"
+
+msgid "Create new password"
+msgstr "Buat kata kunci baru"
+
+msgid "Confirm your password"
+msgstr "Sahkan kata kunci anda"
+
+msgid "Esport Brunei - Organiser Registration"
+msgstr "Esport Brunei - Pendaftaran Penganjur"
+
+msgid "Become an Organiser"
+msgstr "Jadilah seorang Penganjur"
+
+msgid "Username (Read Only)"
+msgstr "Nama pengguna (Untuk dibaca sahaja)"
+
+msgid "Email (Read Only)"
+msgstr "Emel (Untuk dibaca sahaja)"
+
+msgid "Proof of registered organiser"
+msgstr "Bukti penganjur berdaftar"
+
+
+msgid "Proof"
+msgstr "Bukti"
+
+msgid "Register"
+msgstr "Mendaftar"
+
+
+msgid "Profile Picture"
+msgstr "Gambar Profile"
+
+msgid "Username"
+msgstr "Nama pengguna"
+
+msgid "Email"
+msgstr "Emel"
+
+msgid "Phone Number"
+msgstr "Nombor telefon"
+
+msgid "Bio"
+msgstr "Bio"
+
+
+msgid "Solo Registration"
+msgstr "Pendaftaran Perseorangan"
+
+msgid "Team Registration"
+msgstr "Pendaftaran berpasukan"
+
+msgid "Amount:"
+msgstr "Jumlah:"
+
+msgid "Submit Payment"
+msgstr "Hantar pembayaran"
+
+msgid "Esport Brunei - Code Verification"
+msgstr "Esport Brunei - Kod Pengesahan"
+
+msgid "Code Verification"
+msgstr "Kod Pengesahan"
+
+msgid "Esport Brunei - Signup Form"
+msgstr "Esport Brunei - Borang pendaftaran"
+
+msgid "Signup Form"
+msgstr "Borang pendaftaran"
+
+msgid "It's quick and easy."
+msgstr "Ia adalah mudah dan senang."
+
+
+msgid "Email Address"
+msgstr "Alamat emel"
+
+
+msgid "Confirm password"
+msgstr "Sahkan Kata Kunci"
+
+msgid "Signup"
+msgstr "Daftar"
+
+msgid "Already a member?"
+msgstr "Already a member?"
+
+msgid "Login here"
+msgstr "Login here"
+
+msgid "Comment Section"
+msgstr "Comment Section"
+
+msgid "Login/Signup to comment"
+msgstr "Login/Signup to comment"
+
+
+msgid "Popular"
+msgstr "Popular"
+
+msgid "Topics"
+msgstr "Topik"
+
+msgid "Team Code Verification"
+msgstr "Kod Pengesahan Pasukan"
+
+msgid "Enter verification code"
+msgstr "Masukkan kod pengesahan"
+
+msgid "Esport Brunei - Team Registration"
+msgstr "Esport Brunei - Pendaftaran Berpasukan"
+
+
+msgid "Register a team to become official for tournament sign ups!"
+msgstr "Daftarkan pasukan anda untuk mendapatkan akses rasmi bagi menyertai acara-acara kelak"
+
+msgid "Team Name"
+msgstr "Nama pasukan"
+
+msgid "Team Coach's Name"
+msgstr "Nama Jurulatih Pasukan"
+
+msgid "Game Played"
+msgstr "Permainan yang telah dimain"
+
+msgid "Team Logo"
+msgstr "Logo Pasukan"
+

@@ -1,0 +1,203 @@
+.wrapper{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  width: 75%;
+  height: 70%;
+  display: flex;
+  box-shadow: 0 1px 20px 0 rgba(69,90,100,.08);
+  min-height: 70%;
+}
+
+.wrapper .left{
+  width: 35%;
+  background: linear-gradient(to right,#ff6a6a,#c38d18);
+  padding: 30px 25px;
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+  text-align: center;
+  color: #fff;
+}
+
+.wrapper .left img{
+  border-radius: 5px;
+  margin-bottom: 10px;
+}
+
+.wrapper .left h4{
+  margin-bottom: 10px;
+}
+
+.wrapper .left p{
+  font-size: 15px;
+  font-size: 12px;
+  overflow: auto;
+}
+
+.wrapper .left .users p{
+  font-size: 20px;
+}
+
+.wrapper .left .summoned{
+  text-align: center;
+  position: absolute;
+    bottom: 10px;
+  }
+
+
+.wrapper .left .bio{
+  font-size: 12px;
+  
+}
+
+.wrapper .right{
+  width: 65%;
+  background: #fff;
+  padding: 30px 25px;
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+}
+
+.wrapper .right .info,
+.wrapper .right .projects{
+  margin-bottom: 25px;
+}
+
+.wrapper .right .info h3,
+.wrapper .right .projects h3{
+    margin-bottom: 15px;
+    padding-bottom: 5px;
+    border-bottom: 1px solid #e0e0e0;
+    color: #353c4e;
+  text-transform: uppercase;
+  letter-spacing: 5px;
+}
+
+.wrapper .right .info_data,
+.wrapper .right .projects_data{
+  display: flex;
+  justify-content: space-between;
+}
+
+.wrapper .right .info_data .data,
+.wrapper .right .projects_data .data{
+  width: 45%;
+}
+
+.wrapper .right .projects .links .data{
+  width: 10%;
+}
+
+.wrapper .right .info_data .data h4,
+.wrapper .right .projects_data .data h4{
+    color: #353c4e;
+    margin-bottom: 5px;
+}
+
+
+.wrapper .right .info_data .data p,
+.wrapper .right .projects_data .data p{
+  font-size: 13px;
+  margin-bottom: 10px;
+  color: #919aa3;
+}
+
+.wrapper .links ul{
+  display: flex;
+}
+
+.wrapper .links ul li{
+  width: 50px;
+  height: 45px;
+  background: linear-gradient(to right,#ff6a6a,#c38d18);
+  margin-right: 10px;
+  border-radius: 5px;
+  text-align: center;
+  line-height: 45px;
+}
+
+.wrapper .links ul li a{
+  color :#fff;
+  display: block;
+  font-size: 18px;
+}
+
+.wrapper .edit .batn{
+background: linear-gradient(to right,#ff6a6a,#c38d18);
+position: absolute;
+    transition: .5s ease;
+    right: 42px;
+    top: 550px;
+    color: white;
+padding: 10px;
+border-radius: 5px;
+}
+
+.wrapper .update .batn{
+  background: linear-gradient(to right,#ff6a6a,#c38d18);
+  position: absolute;
+      transition: .5s ease;
+      right: 212px;
+      top: 550px;
+      padding: 10px;
+  border-radius: 7px;
+  color :#fff;
+  display: block;
+  font-size: 15px;
+  font-family: montserrat;
+  }
+  
+table {
+  width: 214%;
+}
+
+table tbody, table thead
+{
+    display: block;
+}
+
+table tbody 
+{
+   overflow: auto;
+   height: 150px;
+}
+
+th
+{
+    width: 330px;
+    text-align: left;
+}
+
+td
+{
+    width: 330px;
+    text-align: left;
+}
+
+/* th, td {
+  padding: 5px;
+  text-align: left;
+  height: 30px;
+  vertical-align: bottom;
+} */
+
+/* .wrapper .right .auth-content {
+  width: 30%;
+  margin: 50px auto;
+  padding: 20px;
+  background: white;
+  border-radius: 5px;
+}
+.wrapper .right .auth-content .form-title {
+  text-align: center;
+}
+.wrapper .right .auth-content form div {
+  margin-bottom: 10px;
+}
+.wrapper .right .auth-content form p {
+  text-align: center;
+}
+.wrapper .right .auth-content form p a {
+  text-decoration: underline;
+} */

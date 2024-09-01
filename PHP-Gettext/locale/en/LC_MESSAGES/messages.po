@@ -1,0 +1,284 @@
+msgid "Esport Brunei - Homepage" 
+msgstr "Esport Brunei - Homepage"
+
+msgid "Search"
+msgstr "Search"
+
+msgid "Topics"
+msgstr "Topics"
+
+msgid "Trending"
+msgstr "Trending"
+
+msgid "Trending Posts"
+msgstr "Trending Posts"
+
+msgid "About Us"
+msgstr "About Us"
+
+msgid "What is Esport BN ?"
+msgstr "What is Esport BN ?"
+
+msgid "It is a website developed to satisfy the needs of a user that could not only just advertise but also to allow players get updated news of Bruneian gaming in the Bruneian gaming community . Furthermore , Esports BN becomes a one way for users to register for events that are available for them to join to ."
+msgstr "It is a website developed to satisfy the needs of a user that could not only just advertise but also to allow players get updated news of Bruneian gaming in the Bruneian gaming community . Furthermore , Esports BN becomes a one way for users to register for events that are available for them to join to ."
+
+msgid "What do we offer ?"
+msgstr "What do we offer ?"
+
+msgid "1. Forums"
+msgstr "1. Forums"
+
+msgid "In the forum, the community will be posting  news, strategies and events that are upcoming."
+msgstr "In the forum, the community will be posting  news, strategies and events that are upcoming."
+
+msgid "2. Event Creations"
+msgstr "2. Event Creations"
+
+msgid "Want to organise a tournament or gaming event? Be part of the team by becoming an Organiser and you will be able to host/organise this event. Organiser can also look for volunteers through the help of this platform."
+msgstr "Want to organise a tournament or gaming event? Be part of the team by becoming an Organiser and you will be able to host/organise this event. Organiser can also look for volunteers through the help of this platform."
+
+msgid "3. Teams"
+msgstr "3. Teams"
+
+msgid "Our website allows users to create teams/squad for them to able to register for events in the event page"
+msgstr "Our website allows users to create teams/squad for them to able to register for events in the event page"
+
+
+msgid "Send us a Message if there are any or give us a call at"
+msgstr "Send us a Message if there are any or give us a call at"
+
+msgid "message"
+msgstr "message"
+
+msgid "Send Message"
+msgstr "Send Message"
+
+msgid "Enter your name"
+msgstr "Enter your name"
+
+msgid "Enter your email"
+msgstr "Enter your email"
+
+msgid "Enter your phone"
+msgstr "Enter your phone"
+
+msgid "Enter your website (optional)"
+msgstr "Enter your website (optional)"
+
+
+msgid "submit"
+msgstr "submit"
+
+msgid "cancel"
+msgstr "cancel"
+
+msgid "post-title"
+msgstr "post-title"
+
+msgid "title"
+msgstr "title"
+
+msgid "Register For this event"
+msgstr "Register For this event"
+
+msgid "Login/Signup to register for this event"
+msgstr "Login/Signup to register for this event"
+
+msgid "Esport Brunei - Event Page"
+msgstr "Esport Brunei - Event Page"
+
+msgid "Trending Events"
+msgstr "Trending Events"
+
+msgid "image"
+msgstr "image"
+
+msgid "created_at"
+msgstr "created_at"
+
+msgid "recent-post-title"
+msgstr "recent-post-title"
+
+msgid "Read More"
+msgstr "Read More"
+
+msgid "Forgot Password"
+msgstr "Forgot Password"
+
+msgid "Enter your email address"
+msgstr "Enter your email address"
+
+
+msgid "Esport Brunei - Login Form"
+msgstr "Esport Brunei - Login Form"
+
+msgid "Login Form"
+msgstr "Login Form"
+
+msgid "Login with your email and password."
+msgstr "Login with your email and password."
+
+msgid "Enter your username"
+msgstr "Enter your username"
+
+msgid "Password"
+msgstr "Password"
+
+msgid "Forgot password?"
+msgstr "Forgot password?"
+
+msgid "Signup now"
+msgstr "Signup now"
+
+msgid "Not yet a member?"
+msgstr "Not yet a member?"
+
+
+msgid "your message has been sent"
+msgstr "your message has been sent"
+
+msgid "Sorry, failed to send your message!"
+msgstr "Sorry, failed to send your message!"
+
+msgid "Enter a valid email address!"
+msgstr "Enter a valid email address!"
+
+msgid "Email and message field is required!"
+msgstr "Email and message field is required!"
+
+msgid "Esport Brunei - Create a New Password"
+msgstr "Esport Brunei - Create a New Password"
+
+msgid "New Password"
+msgstr "New Password"
+
+msgid "Create new password"
+msgstr "Create new password"
+
+msgid "Confirm your password"
+msgstr "Confirm your password"
+
+msgid "Esport Brunei - Organiser Registration"
+msgstr "Esport Brunei - Organiser Registration"
+
+msgid "Become an Organiser"
+msgstr "Become an Organiser"
+
+msgid "Username (Read Only)"
+msgstr "Username (Read Only)"
+
+msgid "Email (Read Only)"
+msgstr "Email (Read Only)"
+
+msgid "Proof of registered organiser"
+msgstr "Proof of registered organiser"
+
+
+msgid "Proof"
+msgstr "Proof"
+
+msgid "Register"
+msgstr "Register"
+
+
+msgid "Profile Picture"
+msgstr "Profile Picture"
+
+msgid "Username"
+msgstr "Username"
+
+msgid "Email"
+msgstr "Email"
+
+msgid "Phone Number"
+msgstr "Phone Number"
+
+msgid "Bio"
+msgstr "Bio"
+
+
+msgid "Solo Registration"
+msgstr "Solo Registration"
+
+msgid "Team Registration"
+msgstr "Team Registration"
+
+msgid "Amount:"
+msgstr "Amount:"
+
+msgid "Submit Payment"
+msgstr "Submit Payment"
+
+msgid "Esport Brunei - Code Verification"
+msgstr "Esport Brunei - Code Verification"
+
+msgid "Code Verification"
+msgstr "Code Verification"
+
+msgid "Esport Brunei - Signup Form"
+msgstr "Esport Brunei - Signup Form"
+
+msgid "Signup Form"
+msgstr "Signup Form"
+
+msgid "It's quick and easy."
+msgstr "It's quick and easy."
+
+
+msgid "Email Address"
+msgstr "Email Address"
+
+msgid "Password"
+msgstr "Password"
+
+msgid "Confirm password"
+msgstr "Confirm password"
+
+msgid "Signup"
+msgstr "Signup"
+
+msgid "Already a member?"
+msgstr "Already a member?"
+
+msgid "Login here"
+msgstr "Login here"
+
+msgid "Comment Section"
+msgstr "Comment Section"
+
+msgid "Login/Signup to comment"
+msgstr "Login/Signup to comment"
+
+
+msgid "Popular"
+msgstr "Popular"
+
+msgid "Topics"
+msgstr "Topics"
+
+msgid "Team Code Verification"
+msgstr "Team Code Verification"
+
+msgid "Enter verification code"
+msgstr "Enter verification code"
+
+msgid "Esport Brunei - Team Registration"
+msgstr "Esport Brunei - Team Registration"
+
+
+msgid "Register a team to become official for tournament sign ups!"
+msgstr "Register a team to become official for tournament sign ups!"
+
+msgid "Team Name"
+msgstr "Team Name"
+
+msgid "Team Coach's Name"
+msgstr "Team Coach's Name"
+
+
+msgid "Game Played"
+msgstr "Game Played"
+
+msgid "Team Logo"
+msgstr "Team Logo"
+
